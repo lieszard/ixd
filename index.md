@@ -1,5 +1,4 @@
-# Lisas IXD Page
-## Exercise Links:
+## Lisas IXD Page
 ### Task #00
 [SWOT Analysis](https://drive.google.com/file/d/1mH_NEQjNmEEh_KkF8Wa168QLUJRQ4tCf/view?usp=sharing).  
 ### Task #01
