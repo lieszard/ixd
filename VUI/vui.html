@@ -1,0 +1,69 @@
+<!--************************************/
+/* HTML für IFD VUI */
+/************************************/-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>VUI - Technischer Durchstrich</title>
+    <link rel="stylesheet" href="main.css" />
+
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link
+      href="//db.onlinewebfonts.com/c/2180f4b494c36099cda06e9715f15bda?family=GraphikLCGBold"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+    <script src="js/artyom.window.min.js"></script>
+  </head>
+
+  <body>
+    <div class="text">
+      <h1>VUI - High fidelity</h1>
+
+      <p style="text-align: center;">
+        This is a playground to test the web-based capabilities for a
+        <b>Voice User Interface</b> with artyom.
+      </p>
+
+      <div class="centerbtn">
+        <button class="button" id="btn">Push Notification</button>
+      </div>
+   
+
+<h2 style="text-align: left"> Functions</h2>
+
+<p>Pick your excercise</p>
+
+<h3 style="text-align: left"> Or say:</h3>
+
+<p>Hello, Good Morning, Good night</p>
+
+<p>What is your name?</p>
+
+<p>What can I do today? What's planned? What's todays excercise?</p>
+
+
+</div>
+
+   <script>
+      var Jarvis = new Artyom();
+
+      // Needed user interaction at least once in the website to make
+      // it work automatically without user interaction later... thanks google .i.
+      document.getElementById("btn").addEventListener(
+        "click",
+        function() {
+          Jarvis.say("Hey Anna, I noticed you've been sitting for a while. Do you wannt to do some sports now?");
+        },
+        false
+      );
+    </script>
+  </body>
+</html>
