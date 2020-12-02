@@ -6,7 +6,7 @@
 [The Wallet Project Prototype Video](https://drive.google.com/file/d/106os9R-LuB1LnhH8wW2Q509VM2P5O0BY/view?usp=sharing) 
 ### Task #02
 [Low fidelity Prototype](https://drive.google.com/file/d/1QrSctsMjrkuoHlWR13ozfRehEp6USMB_/view?usp=sharing)  
-[High fidelity Prototype](https://xd.adobe.com/view/ed8cfd6b-a0e3-4e55-b55b-f708d6dee84e-b8df/?fullscreen)
+[High fidelity Prototype](https://xd.adobe.com/view/e1e683dd-38de-4b0d-a5fb-8714bbfd92ca-b4b5/?fullscreen&hints=off)
 ### Task #03
 [Tablet](https://xd.adobe.com/view/3d0b5a41-0834-4fbb-a5bb-f0e653c42534-6858/?fullscreen)  
 [Smartwatch](https://xd.adobe.com/view/726fd658-349f-40dc-9555-3ad59cf2f175-273c/)
