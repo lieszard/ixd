@@ -20,4 +20,4 @@
 [High fidelity Prototype](https://lieszard.github.io/ixd/VUI/vui.html)   
 [Screencast](https://lieszard.github.io/ixd/VUI-Screencast.mp4)
 ### Task #07
-[A-B-Test](https://lieszard.github.io/ixd/VUI/vui.html)   
+[A-B-Test](https://lieszard.github.io/ixd/A-B-Test.pdf)   
