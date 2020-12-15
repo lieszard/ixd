@@ -19,5 +19,8 @@
 ### Task #06
 [High fidelity Prototype](https://lieszard.github.io/ixd/VUI/vui.html)   
 [Screencast](https://lieszard.github.io/ixd/VUI-Screencast.mp4)
-### Task #07
-[A-B-Test](https://lieszard.github.io/ixd/A-B-Test.pdf)   
+### Task #07 & #08
+[Presentation](https://lieszard.github.io/ixd/A-B-Test.pdf)   
+[Test Material](https://webuser.hs-furtwangen.de/~kuehnhar/A-BTest/A-B_Test_Sonstiges_Material_Versuchsaufbau.pdf)   
+### Task #09
+[IOT Concept](https://lieszard.github.io/ixd/A-B-Test.pdf)   
