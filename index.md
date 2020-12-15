@@ -23,4 +23,4 @@
 [Presentation](https://lieszard.github.io/ixd/A-B-Test.pdf)   
 [Test Material](https://webuser.hs-furtwangen.de/~kuehnhar/A-BTest/A-B_Test_Sonstiges_Material_Versuchsaufbau.pdf)   
 ### Task #09
-[IOT Concept](https://lieszard.github.io/ixd/A-B-Test.pdf)   
+[IOT Concept](https://xd.adobe.com/view/06698a3f-be32-4bcf-af8a-c8413ca8c866-533a/)   
