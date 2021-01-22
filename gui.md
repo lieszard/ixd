@@ -1,4 +1,5 @@
 ## GUI
+![big screen](https://lieszard.github.io/ixd/big.png)
 [Concept Scribbles](https://drive.google.com/file/d/1QrSctsMjrkuoHlWR13ozfRehEp6USMB_/view?usp=sharing)  
 [High fidelity Prototype](https://xd.adobe.com/view/e1e683dd-38de-4b0d-a5fb-8714bbfd92ca-b4b5/?fullscreen&hints=off)  
 [Tablet](https://xd.adobe.com/view/3d0b5a41-0834-4fbb-a5bb-f0e653c42534-6858/?fullscreen)  
