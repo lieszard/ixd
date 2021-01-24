@@ -1,6 +1,7 @@
 ## GUI
 <img src="https://lieszard.github.io/ixd/scribbles.png" alt="scribbles" style="width:200px;"/> 
 [Concept Scribbles](https://drive.google.com/file/d/1QrSctsMjrkuoHlWR13ozfRehEp6USMB_/view?usp=sharing)  
+<img src="https://lieszard.github.io/ixd/big.png" alt="big screen" style="width:200px;"/> 
 ![big screen](https://lieszard.github.io/ixd/big.png)  
 [High fidelity Prototype](https://xd.adobe.com/view/e1e683dd-38de-4b0d-a5fb-8714bbfd92ca-b4b5/?fullscreen&hints=off)  
 ![tablet version](https://lieszard.github.io/ixd/tablet.png)   
